@@ -1,2 +1,2 @@
 # revou-coding-camp-html-css
-Belajar dari Revou
+Belajar coding camp revou
